@@ -1,0 +1,17 @@
+{
+  "name": "people-counter-engage",
+  "version": "1.0.0",
+  "description": "UI for the People Counter application",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis M. Valerio",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}

@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Copyright 2019-2020 VMware, Inc.
+#
+# SPDX-License-Identifier: BSD-2-Clause
+#
+export APP_CONFIG_FILE="CHANGE_ME"
+python run.py

@@ -1,0 +1,19 @@
+# Ignore auto-generated python files
+*.pyc
+__pycache__/
+
+# Generated Mac files
+.DS_Store
+
+# Generated Pulse package CLI files
+*.iotcp
+
+# Flask private files
+instance/
+start.sh
+
+# Ignore image files
+*.jpg
+
+# NodeJS modules
+node_modules/
