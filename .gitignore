@@ -17,3 +17,6 @@ start.sh
 
 # NodeJS modules
 node_modules/
+
+# Generated IntelliJ files
+.idea/
